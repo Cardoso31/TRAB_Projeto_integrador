@@ -1,0 +1,19 @@
+.direita{
+	float: right;
+}
+
+.topper{
+	margin-top: 5%;
+	font-color:#FFFFFF;
+}
+
+.epc{
+	margin-top: 0.5%;
+	font-color:#FFFFFF;
+}
+
+.coluna1{
+	width: 45%;
+	float: left;
+	padding: 2%;
+}
