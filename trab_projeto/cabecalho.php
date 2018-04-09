@@ -7,7 +7,8 @@
 	<meta charset="UTF-8">
 </head>
 <body>
-	<div class="ui inverted segment">
+	
+	<div class="ui inverted segment ">
 		<div class="ui inverted secondary pointing menu">
 			<a class="item" href="index.php">
 				Home
